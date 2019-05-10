@@ -1,0 +1,7 @@
+C:\Users\Austin Bowen\Documents\IT_2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\MusicPlaylistAnalyzer.exe.config
+C:\Users\Austin Bowen\Documents\IT_2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\MusicPlaylistAnalyzer.exe
+C:\Users\Austin Bowen\Documents\IT_2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\MusicPlaylistAnalyzer.pdb
+C:\Users\Austin Bowen\Documents\IT_2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+C:\Users\Austin Bowen\Documents\IT_2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Austin Bowen\Documents\IT_2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.exe
+C:\Users\Austin Bowen\Documents\IT_2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.pdb
